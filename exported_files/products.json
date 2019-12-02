@@ -1,0 +1,13 @@
+{"_id":{"$oid":"5de1fb77279a40810496ebb5"},"stallid":1,"stall":"Fairuz","code":101,"name":"The King (Shawarma Rice)","price":100.0,"image":"theking.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebb6"},"stallid":1,"stall":"Fairuz","code":102,"name":"The Queen (Beef Kebab)","price":100.0,"image":"thequeen.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebb7"},"stallid":1,"stall":"Fairuz","code":103,"name":"The Prince (Chicken Kebab)","price":100.0,"image":"theprince.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebb8"},"stallid":2,"stall":"Mana","code":201,"name":"Truffle Grilled Cheese","price":99.0,"image":"truffle.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebb9"},"stallid":2,"stall":"Mana","code":202,"name":"Chicken Parmesan","price":110.0,"image":"chickenparm.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebba"},"stallid":2,"stall":"Mana","code":203,"name":"Sailor's Salmon","price":120.0,"image":"salmon.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebbb"},"stallid":2,"stall":"Mana","code":204,"name":"Pesto Paradise","price":110.0,"image":"pesto.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebbc"},"stallid":3,"stall":"Taverna","code":301,"name":"Chicken Gyro Wrap","price":99.0,"image":"chickenwrap.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebbd"},"stallid":3,"stall":"Taverna","code":302,"name":"Beef Gyro Wrap","price":100.0,"image":"beefwrap.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebbe"},"stallid":3,"stall":"Taverna","code":303,"name":"Greek Chicken Bites Fries","price":90.0,"image":"greekfries.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebbf"},"stallid":3,"stall":"Taverna","code":304,"name":"Naked Chicken Gyro","price":100.0,"image":"nakedchicken.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebc0"},"stallid":3,"stall":"Taverna","code":305,"name":"Naked Beef Gyro","price":110.0,"image":"nakedbeef.jpg","inventory":"Available"}
+{"_id":{"$oid":"5de1fb77279a40810496ebc1"},"stallid":3,"stall":"Taverna","code":306,"name":"Greek Chicken Bites \u0026 Rice","price":90.0,"image":"greekrice.jpg","inventory":"Available"}
